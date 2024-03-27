@@ -18,7 +18,7 @@
 
  `git branch -M main`
  
- `git remote add origin (inserir link de seu novo repositorio criado no github ex. https://github.com/seu_usuario/nome_repositorio.git)`
+ `git remote add origin url_do_repositorio` (inserir link de seu novo repositorio criado no github ex. https://github.com/seu_usuario/nome_repositorio.git)
 
  `git push -u origin main`
 
